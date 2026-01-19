@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on: would like to work in a team.
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true&theme=dark&locale=ru"
     media="(prefers-color-scheme: dark)"
   />
   <source
