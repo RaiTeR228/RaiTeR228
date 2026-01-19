@@ -15,6 +15,7 @@
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&locale=ru&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true)
 
 <!---- 📫 How to reach me: in the telegram @RaiTeR_228. 
 
