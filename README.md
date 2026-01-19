@@ -4,9 +4,8 @@
 - 💞️ I’m looking to collaborate on: would like to work in a team.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&locale=ru&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTer228&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="RaiTer228's GitHub Stats" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true&theme=dark&locale=ru)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaiTer228&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=ru&)
 <!---- 📫 How to reach me: in the telegram @RaiTeR_228. 
 
 RaiTeR228/RaiTeR228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
