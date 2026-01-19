@@ -14,6 +14,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true" />
 </picture>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---- 📫 How to reach me: in the telegram @RaiTeR_228. 
 
 RaiTeR228/RaiTeR228 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
