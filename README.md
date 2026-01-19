@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&&locale=rulayout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---- 📫 How to reach me: in the telegram @RaiTeR_228. 
 
