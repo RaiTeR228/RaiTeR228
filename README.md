@@ -2,17 +2,6 @@
 - 👀 I’m interested: in programming in Python, I am learning to program into an application Mimo. 
 - 🌱 I’m currently learning:  to an electrician. 
 - 💞️ I’m looking to collaborate on: would like to work in a team.
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true&theme=dark&locale=ru"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true" />
-</picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&locale=ru&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true&theme=dark&locale=ru)
