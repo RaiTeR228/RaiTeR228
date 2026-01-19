@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning:  to an electrician. 
 - 💞️ I’m looking to collaborate on: would like to work in a team.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&locale=ru&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true&theme=dark&locale=ru)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTer228&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&locale=ru)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaiTer228&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&locale=ru&)
 <!---- 📫 How to reach me: in the telegram @RaiTeR_228. 
 
