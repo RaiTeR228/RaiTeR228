@@ -12,6 +12,8 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&locale=ru&layout=donut"
+  media="(prefers-color-scheme: dark)" />
 </picture>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaiTeR228&theme=dark&locale=ru&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
