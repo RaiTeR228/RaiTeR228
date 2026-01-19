@@ -6,7 +6,6 @@
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
-    locale="(ru)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=RaiTeR228&show_icons=true"
