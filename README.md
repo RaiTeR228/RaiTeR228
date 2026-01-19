@@ -2,8 +2,7 @@
 - 👀 I’m interested: in programming in Python, I am learning to program into an application Mimo. 
 - 🌱 I’m currently learning:  to an electrician. 
 - 💞️ I’m looking to collaborate on: would like to work in a team. 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiTeR228&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaiTeR228)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---- 📫 How to reach me: in the telegram @RaiTeR_228. 
 
